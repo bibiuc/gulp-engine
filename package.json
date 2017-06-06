@@ -1,0 +1,13 @@
+{
+  "name": "gulp-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bibiuc/gulp-engine.git",
+  "author": "bbuc <bbuc@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
